@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2021-07-26T04:57:16Z" finished-at="2021-07-26T04:57:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81" started-at="2021-07-26T04:57:16Z" finished-at="2021-07-26T04:57:17Z">
+      <class name="com.practice.API.Demo.DemoTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.API.Demo.DemoTest@51081592]" name="setup" is-config="true" duration-ms="20" started-at="2021-07-26T04:57:16Z" finished-at="2021-07-26T04:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ku()[pri:0, instance:com.practice.API.Demo.DemoTest@51081592]" name="ku" duration-ms="10" started-at="2021-07-26T04:57:17Z" finished-at="2021-07-26T04:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ku -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.practice.API.Demo.DemoTest@51081592]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-07-26T04:57:17Z" finished-at="2021-07-26T04:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.practice.API.Demo.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
